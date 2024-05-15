@@ -10,8 +10,8 @@ function Projects() {
     <div className="projects">
       <h1> My Personal Projects</h1>
       <div className="projectList"></div>
-      <ProjectItem name="social" image={ExpenseTrackerImg} />
-      <ProjectItem name="social" image={QuizAppImg} />
+      <ProjectItem name="Expense Tracker" image={ExpenseTrackerImg} />
+      <ProjectItem name="Quiz App" image={QuizAppImg} />
     </div>
   );
 }
