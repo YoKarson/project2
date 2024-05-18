@@ -32,7 +32,7 @@ function Experience() {
           <h3 className="vertical-timeline-element-title">
             California State University Fullerton, California, Fullerton
           </h3>
-          <p> High School Diploma </p>
+          <p> Bachelor's degree in Computer Science </p>
         </VerticalTimelineElement>
       </VerticalTimeline>
     </div>
