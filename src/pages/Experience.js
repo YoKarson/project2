@@ -18,19 +18,31 @@ function Experience() {
           icon={<SchoolIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            Shadow Ridge HighSchool, Las Vegas, Nevada
+            Shadow Ridge HighSchool
           </h3>
           <p> High School Diploma </p>
         </VerticalTimelineElement>
 
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
-          date="2019 - Present"
+          date="2019 - 2022"
           iconStyle={{ background: "#3e497a", color: "#fff" }}
           icon={<SchoolIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            California State University Fullerton, California, Fullerton
+            Saddleback College
+          </h3>
+          <p> Associates degree in Computer Science </p>
+        </VerticalTimelineElement>
+
+        <VerticalTimelineElement
+          className="vertical-timeline-element--education"
+          date="2022 - 2025"
+          iconStyle={{ background: "#3e497a", color: "#fff" }}
+          icon={<SchoolIcon />}
+        >
+          <h3 className="vertical-timeline-element-title">
+            California State University Fullerton
           </h3>
           <p> Bachelor's degree in Computer Science </p>
         </VerticalTimelineElement>

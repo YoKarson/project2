@@ -10,7 +10,8 @@ function Home() {
       <div className="about">
         <h2>Hi, My Name is Karson</h2>
         <div className="prompt">
-          <p>I Am a Front End Software Developer.</p>
+          <p>I Am a Full Stack Software Developer.</p>
+          <p>And a Current Senior at California State Univeristy Fullerton</p>
           <LinkedInIcon />
           <EmailIcon />
           <GithubIcon />
@@ -26,12 +27,12 @@ function Home() {
 
           <li className="item">
             <h2> Back-End</h2>
-            <span> NodeJS, MySQL</span>
+            <span> NodeJS, MySQL, Firebase, Postgres</span>
           </li>
 
           <li className="item">
             <h2> Languages</h2>
-            <span> JavaScript, Java, C, C++, </span>
+            <span> JavaScript, Java, C, C++, Python, ReactJS, NextJS </span>
           </li>
         </ol>
       </div>

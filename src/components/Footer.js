@@ -7,7 +7,13 @@ function Footer() {
   return (
     <div className="footer">
       <div className="socialMedia">
-        <LinkedInIcon />
+        <a
+          href="https://www.linkedin.com/in/karson-lant-962486292"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <LinkedInIcon />
+        </a>
         <GithubIcon />
       </div>
       <p>&copy; 2024 KarsonLant.com</p>
